@@ -1,0 +1,9 @@
+{
+  "name": "Copy of Copy final SIH",
+  "description": "A comprehensive farm management system with AI-powered advisory for farmers and agricultural consultants.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "prompt": ""
+}
